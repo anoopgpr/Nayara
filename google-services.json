@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243289324479",
+    "project_id": "nayara-energy-38d54",
+    "storage_bucket": "nayara-energy-38d54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243289324479:android:e0f5fe5bff098002b1ff0a",
+        "android_client_info": {
+          "package_name": "com.mobiquest.nayaraenergy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243289324479-i509qnjia10bhil5p3to3m3n1mjaddbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA63VGKvj8jeyl90QH23ERGtzAs37-YJME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243289324479-i509qnjia10bhil5p3to3m3n1mjaddbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
